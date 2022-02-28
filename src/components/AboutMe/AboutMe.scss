@@ -1,0 +1,9 @@
+@import "../../variables.scss";
+
+.aboutMe{
+    background-color: $baseColor;
+    color: $darkColor;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

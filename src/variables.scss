@@ -1,0 +1,13 @@
+/* SCSS HEX */
+$kindaRed: #d00000ff;
+$darkColor: #280004ff;
+$baseColor: #eff7f6ff;
+$ebony: #464e47ff;
+
+$width: 768px;
+
+@mixin mobile{
+    @media (max-width: $width){
+        @content 
+    }
+}
