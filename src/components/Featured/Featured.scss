@@ -2,4 +2,80 @@
 
 .featured{
     background-color: $baseColor;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .card{
+        //background-color: $olor;
+        width: 600px;
+        height: 470px;
+        margin: 0 5px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: $darkColor;
+        border-radius: 7px;
+        justify-content: space-around;
+        border: 2px solid $darkColor;
+
+        @include mobile{
+            height: 550px;
+            width: 98%;
+        }
+
+        .text{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+
+            a{
+                text-decoration: none;
+            }
+
+            a:visited {
+                color: inherit;
+            }
+
+            a:hover{
+                color: $kindaRed;
+            }
+            
+            h4{
+                margin: 5px 0;
+            }
+            
+            h5{
+                margin: 3px 0;
+                cursor: pointer;
+            }
+            
+            p{
+                margin: 5px 20px;
+                text-align: justify;
+            }
+        }
+
+        img{
+            margin: 10px 0;
+            width: auto;
+            height: 200px;
+            object-fit: contain;
+            border-radius: 7px;
+            border: 2px solid $darkColor;
+            transform: rotate(3deg);
+            transition: transform 1s ease;
+
+            @include mobile{
+                height: 180px;
+            }
+    
+        }
+
+        img:hover{
+            transform: rotate(-3deg);
+            transition: transform 1s ease;
+        }
+    }
 }
