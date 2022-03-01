@@ -5,9 +5,16 @@ $baseColor: #eff7f6ff;
 $ebony: #464e47ff;
 
 $width: 768px;
+$height: 750px;
 
 @mixin mobile{
     @media (max-width: $width){
         @content 
+    }
+}
+
+@mixin mobile2{
+    @media (max-height: $height){
+        @content
     }
 }

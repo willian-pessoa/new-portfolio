@@ -20,6 +20,7 @@
     }
 
     .menuContainer{
+        z-index: 10;
         visibility: hidden;
         display: flex;
         flex-direction: column;

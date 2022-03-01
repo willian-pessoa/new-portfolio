@@ -9,7 +9,7 @@ export default function Intro() {
       <div className="textContainer">
         <h2>Hi There, I'm</h2>
         <h1>Willian Pessoa</h1>
-        <h3>Computer Science Student !</h3>
+        <h3>a Computer Science Student !</h3>
       </div>
       <div className="downArrow">
         <a href="#About Me"><IoIosArrowDown/></a>
