@@ -1,5 +1,6 @@
 import React from "react";
 import "./AboutMe.scss";
+import {IoIosArrowDown} from "react-icons/io"
 
 const SKILLS = [
   "HTML",
@@ -43,6 +44,9 @@ export default function AboutMe() {
             </ul>
           </div>
         </div>
+      </div>
+      <div className="downArrow">
+        <a href="#About Me"><IoIosArrowDown/></a>
       </div>
     </div>
   );

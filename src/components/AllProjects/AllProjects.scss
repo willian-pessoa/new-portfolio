@@ -10,11 +10,14 @@
         display: flex;
         flex-wrap: wrap;
         position: relative;
-        top: 40px;
+        align-items: center;
+        justify-content: center;
+        top: 10px;
+        max-width: 950px;
     }
 
     h3{
         position: relative;
-        top: 50px
+        top: 30px;
     }
 }

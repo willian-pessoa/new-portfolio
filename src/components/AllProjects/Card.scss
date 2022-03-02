@@ -9,6 +9,11 @@
         border: 2px solid $darkColor;
         border-radius: 7px;
         margin: 10px;
+
+        @include mobile{
+            height: 80px;
+            width: 160px;
+        }
     
     img{
         border-radius: 7px;
@@ -26,7 +31,7 @@
         top: 0;
         opacity: 0%;
         margin: 10px;
-        background-color: $darkColor;
+        //background-color: $darkColor;
         border: 2px solid $darkColor;
         border-radius: 7px;
         color: $baseColor;

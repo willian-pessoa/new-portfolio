@@ -4,6 +4,7 @@ import "./Featured.scss";
 export default function Featured() {
   return (
     <div id="Featured" className="featured">
+      <h3>Featured Project</h3>
       <div className="card">
         <img src="/assets/mbldshare.jpg" alt="" />
         <div className="text">
