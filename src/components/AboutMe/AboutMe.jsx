@@ -46,7 +46,7 @@ export default function AboutMe() {
         </div>
       </div>
       <div className="downArrow">
-        <a href="#About Me"><IoIosArrowDown/></a>
+        <a href="#Featured"><IoIosArrowDown/></a>
       </div>
     </div>
   );
