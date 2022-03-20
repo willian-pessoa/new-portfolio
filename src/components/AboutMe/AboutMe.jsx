@@ -20,7 +20,7 @@ export default function AboutMe() {
     <div id="About Me" className="aboutMe">
       <div className="wrapper">
         <div className="containerLeft">
-          <img src="/assets/willian.jpg" alt="about me" />
+          <img src="assets/willian.jpg" alt="about me" />
         </div>
         <div className="containerRight">
           <h3>Hello, I'm Willian Pessoa from Brazil. </h3>

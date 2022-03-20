@@ -8,7 +8,7 @@ export const ALLPROJECTS = [
     {
         id: 1,
         title: "Quote Machine",
-        img: "/portfolio/quotemachine.png",
+        img: "portfolio/quotemachine.png",
         category: "ReactJs",
         github: "https://github.com/willian-pessoa/frases-engracadas",
         demo: "https://willian-pessoa.github.io/frases-engracadas/",
@@ -16,7 +16,7 @@ export const ALLPROJECTS = [
     {
         id: 2,
         title: "Markdown Previewer",
-        img: "/portfolio/markdown.png",
+        img: "portfolio/markdown.png",
         category: "ReactJs",
         github: "https://github.com/willian-pessoa/markdown-previewer",
         demo: "https://willian-pessoa.github.io/markdown-previewer/",
@@ -24,7 +24,7 @@ export const ALLPROJECTS = [
     {
         id: 3,
         title: "Drum Machine",
-        img: "/portfolio/drum.png",
+        img: "portfolio/drum.png",
         category: "ReactJs",
         github: "https://github.com/willian-pessoa/drum-machine",
         demo: "https://willian-pessoa.github.io/drum-machine/",
@@ -32,7 +32,7 @@ export const ALLPROJECTS = [
     {
         id: 4,
         title: "JavaScript Calculator",
-        img: "/portfolio/calculator.png",
+        img: "portfolio/calculator.png",
         category: "ReactJs",
         github: "https://github.com/willian-pessoa/javascript-calculator",
         demo: "https://willian-pessoa.github.io/javascript-calculator/",
@@ -40,7 +40,7 @@ export const ALLPROJECTS = [
     {
         id: 5,
         title: "Pomodoro Clock",
-        img: "/portfolio/pomodoro.png",
+        img: "portfolio/pomodoro.png",
         category: "ReactJs",
         github: "https://github.com/willian-pessoa/pomodoro-clock",
         demo: "https://willian-pessoa.github.io/pomodoro-clock/",
@@ -48,7 +48,7 @@ export const ALLPROJECTS = [
     {
         id: 6,
         title: "Letter Pairs Memory Trainer",
-        img: "/portfolio/letterpair.png",
+        img: "portfolio/letterpair.png",
         category: "ReactJs",
         github: "https://github.com/willian-pessoa/letter-pairs-memo",
         demo: "https://willian-pessoa.github.io/letter-pairs-memo/",
@@ -56,7 +56,7 @@ export const ALLPROJECTS = [
     {
         id: 7,
         title: "Bar Chart",
-        img: "/portfolio/barchart.png",
+        img: "portfolio/barchart.png",
         category: "d3",
         github: "https://github.com/willian-pessoa/bar-chart-gdp",
         demo: "https://willian-pessoa.github.io/bar-chart-gdp/",
@@ -64,7 +64,7 @@ export const ALLPROJECTS = [
     {
         id: 8,
         title: "Tree Map",
-        img: "/portfolio/treemap.png",
+        img: "portfolio/treemap.png",
         category: "d3",
         github: "https://github.com/willian-pessoa/Treemap-Diagram",
         demo: "https://willian-pessoa.github.io/pomodoro-clock/",
@@ -72,7 +72,7 @@ export const ALLPROJECTS = [
     {
         id: 9,
         title: "Choropleth Map",
-        img: "/portfolio/choroplethmap.png",
+        img: "portfolio/choroplethmap.png",
         category: "d3",
         github: "https://github.com/willian-pessoa/Choropleth-Map",
         demo: "https://willian-pessoa.github.io/Choropleth-Map/",
@@ -80,7 +80,7 @@ export const ALLPROJECTS = [
     {
         id: 10,
         title: "Heat Map",
-        img: "/portfolio/heatmap.png",
+        img: "portfolio/heatmap.png",
         category: "d3",
         github: "https://github.com/willian-pessoa/heat-map",
         demo: "https://willian-pessoa.github.io/pomodoro-clock/",
@@ -88,7 +88,7 @@ export const ALLPROJECTS = [
     {
         id: 11,
         title: "Real State",
-        img: "/portfolio/realestate.png",
+        img: "portfolio/realestate.png",
         category: "NextJs",
         github: "https://github.com/willian-pessoa/real-estate",
         demo: "https://real-estate-willian-pessoa.vercel.app/",
@@ -96,7 +96,7 @@ export const ALLPROJECTS = [
     {
         id: 12,
         title: "First Portfolio App",
-        img: "/portfolio/oldportfolio.png",
+        img: "portfolio/oldportfolio.png",
         category: "ReactJs",
         github: "https://github.com/willian-pessoa/Portfolio-App",
         demo: "https://willian-pessoa.github.io/Portfolio-App/",
@@ -104,7 +104,7 @@ export const ALLPROJECTS = [
     {
         id: 13,
         title: "PokeNext",
-        img: "/portfolio/pokenext.png",
+        img: "portfolio/pokenext.png",
         category: "NextJs",
         github: "https://github.com/willian-pessoa/pokenext",
         demo: "https://pokenext-xi.vercel.app/",
@@ -112,7 +112,7 @@ export const ALLPROJECTS = [
     {
         id: 14,
         title: "BLD Trainer",
-        img: "/portfolio/bldtrainer.png",
+        img: "portfolio/bldtrainer.png",
         category: "ReactJs",
         github: "https://github.com/willian-pessoa/bld-trainer",
         demo: "https://willian-pessoa.github.io/bld-trainer/",
