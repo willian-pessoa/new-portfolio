@@ -6,7 +6,7 @@ export default function Featured() {
     <div id="Featured" className="featured">
       <h3>Featured Project</h3>
       <div className="card">
-        <img src="/assets/mbldshare.jpg" alt="" />
+        <img src="assets/mbldshare.jpg" alt="" />
         <div className="text">
           <h4>MBLD Share</h4>
           <p>
